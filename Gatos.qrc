@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Gatitos">
+    <file>kitty1.png</file>
+  </qresource>
+</RCC>
